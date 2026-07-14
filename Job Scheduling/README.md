@@ -4,12 +4,12 @@ This directory contains two fundamental types of scheduling problems solved usin
 
 ## 📁 Directory Structure
 
-### 1. [Activity Selection](./Activity Selection Problem/)
+### 1. [Activity Selection](./Activity-Selection-Problem/)
 *   **Goal**: Maximize the total number of tasks performed.
 *   **Constraint**: Tasks have fixed start and end times and cannot overlap.
 *   **Strategy**: Greedy selection based on the **Earliest Finishing Time (EFT)**.
 
-### 2. [Job Selection with Deadlines and Penalties](./Job Sequencing with Deadlines and Penalties/)
+### 2. [Job Selection with Deadlines and Penalties](./Job-Sequencing-with-Deadlines-and-Penalties/)
 *   **Goal**: Minimize the total penalty incurred from missed tasks.
 *   **Constraint**: Each task has a deadline (1-day duration) and a specific penalty if not completed.
 *   **Strategy**: Greedy selection based on the **Highest Penalty First**.
