@@ -9,7 +9,7 @@ This directory contains two fundamental types of scheduling problems solved usin
 *   **Constraint**: Tasks have fixed start and end times and cannot overlap.
 *   **Strategy**: Greedy selection based on the **Earliest Finishing Time (EFT)**.
 
-### 2. [Job Selection with Deadlines and Penalties](./Job-Sequencing-with-Deadlines-and-Penalties/)
+### 2. [Job Selection with Deadlines and Penalties](https://github.com/RezaGooner/ai-problems-prolog/tree/main/Job%20Scheduling/Job%20Sequencing%20with%20Deadlines%20and%20Penalties)
 *   **Goal**: Minimize the total penalty incurred from missed tasks.
 *   **Constraint**: Each task has a deadline (1-day duration) and a specific penalty if not completed.
 *   **Strategy**: Greedy selection based on the **Highest Penalty First**.
