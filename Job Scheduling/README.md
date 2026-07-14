@@ -4,7 +4,7 @@ This directory contains two fundamental types of scheduling problems solved usin
 
 ## 📁 Directory Structure
 
-### 1. [Activity Selection](./Activity-Selection-Problem/)
+### 1. [Activity Selection](https://github.com/RezaGooner/ai-problems-prolog/tree/main/Job%20Scheduling/Activity%20Selection%20Problem)
 *   **Goal**: Maximize the total number of tasks performed.
 *   **Constraint**: Tasks have fixed start and end times and cannot overlap.
 *   **Strategy**: Greedy selection based on the **Earliest Finishing Time (EFT)**.
