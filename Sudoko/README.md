@@ -103,19 +103,19 @@ Row number (1-9) or 0 to finish: 0
 
 ### Result:
 
-> Ex 1
+> Ex 1 (Solution)
 ```text
 5 3 4 6 7 8 9 1 2
 6 7 2 1 9 5 3 4 8
 1 9 8 3 4 2 5 6 7
 ```
-> Ex 2
+> Ex 2 (Solution)
 ```
 8 5 9 7 6 1 4 2 3
 4 2 6 8 5 3 7 9 1
 7 1 3 9 2 4 8 5 6
 ```
-> Ex 3
+> Ex 3 (Solution)
 ```
 9 6 1 5 3 7 2 8 4
 2 8 7 4 1 9 6 3 5
