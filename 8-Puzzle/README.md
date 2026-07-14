@@ -1,5 +1,3 @@
-### 8-puzzle
-
 # 8-Puzzle Solver (A* Algorithm)
 
 This directory contains a robust implementation of the classic **8-Puzzle** problem using **Prolog**. The solver utilizes the **A* Search Algorithm** with the **Manhattan Distance** heuristic to find the most efficient path from an initial state to the goal state.
